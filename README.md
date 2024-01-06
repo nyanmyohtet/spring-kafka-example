@@ -9,7 +9,7 @@ Spring Boot with Kafka
 
 ## Kafka
 
-### Run with Docker
+### Run using Docker
 
 ```shell
 docker compose up -d
@@ -56,5 +56,6 @@ ref: https://www.baeldung.com/ops/kafka-docker-setup
 ## Kafka
 
 ref:
+- https://kafka.apache.org/quickstart
 - https://www.youtube.com/watch?v=SqVfCyfCJqw
 - https://medium.com/@Wajahat_Hussain_/a-comprehensive-guide-to-getting-started-with-apache-kafka-using-docker-61cc27e1ffb0

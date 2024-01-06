@@ -4,7 +4,7 @@ Spring Boot with Kafka
 
 ## Tech Stack
 
-- kafka : 2.13-3.6.1
+- kafka : [2.13-3.6.1](https://dlcdn.apache.org/kafka/3.6.1/kafka_2.13-3.6.1.tgz)
 - spring boot : 2.x
 
 ## Kafka

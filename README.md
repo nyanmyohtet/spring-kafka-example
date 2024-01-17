@@ -49,6 +49,20 @@ inside `bin\windows`
 kafka-console-consumer.bat --topic <topic-name> --from-beginning --bootstrap-server localhost:9092
 ```
 
+### Delete all Kafka data (Linux)
+
+```sh
+rm -rf /tmp/kafka-logs /tmp/zookeeper
+```
+
+### Delete all Kafka data (Windows)
+
+```sh
+rmdir /s /q C:\tmp\kafka-logs
+
+rmdir /s /q C:\tmp\zookeeper
+```
+
 ## Dockerize
 
 ref: https://www.baeldung.com/ops/kafka-docker-setup

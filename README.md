@@ -29,6 +29,9 @@ bin/kafka-server-start.sh config/server.properties
 
 #### for Windows(with cmd)
 ```shell
+# change directory
+cd C:\kafka_2.13-3.6.1\bin\windows
+
 # Start the ZooKeeper service
 zookeeper-server-start.bat ..\..\config\zookeeper.properties
 

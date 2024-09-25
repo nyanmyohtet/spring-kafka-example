@@ -2,6 +2,8 @@
 
 Spring Boot with Kafka
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nyanmyohtet_spring-kafka-example&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nyanmyohtet_spring-kafka-example)
+
 ## Tech Stack
 
 - kafka : [2.13-3.6.1](https://dlcdn.apache.org/kafka/3.6.1/kafka_2.13-3.6.1.tgz)
